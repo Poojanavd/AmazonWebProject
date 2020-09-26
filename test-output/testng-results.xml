@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="358" started-at="2020-09-27T00:34:21 IST" finished-at="2020-09-27T00:34:22 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:com.amazonweb.runner.TestRunner@7113b13f]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="358" started-at="2020-09-27T00:34:21 IST" finished-at="2020-09-27T00:34:22 IST">
+      <class name="com.amazonweb.runner.TestRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.amazonweb.runner.TestRunner@7113b13f]" name="setUpClass" is-config="true" duration-ms="293" started-at="2020-09-27T00:34:21 IST" finished-at="2020-09-27T00:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.amazonweb.runner.TestRunner@7113b13f]" name="tearDownClass" is-config="true" duration-ms="18" started-at="2020-09-27T00:34:22 IST" finished-at="2020-09-27T00:34:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.amazonweb.runner.TestRunner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
